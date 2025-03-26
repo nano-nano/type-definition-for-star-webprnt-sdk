@@ -9,7 +9,7 @@
 <br>
 
 > [!IMPORTANT]  
-> この型定義は非公式のものです
+> この型定義は非公式のものです  
 > This definition is NOT official.
 
 Star webPRNT SDK（JavaScript）ファイル用の TypeScript 型定義ファイルです  
