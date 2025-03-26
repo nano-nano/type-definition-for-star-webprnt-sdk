@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Type Definition for Star webPRNT SDK</h1>
     <p>
-        <b>Unofficial: TypwScript type definition for Star webPRNT SDK</b><br/>
+        <b>Unofficial: TypeScript type definition for Star webPRNT SDK</b><br/>
         <b>【非公式】Star webPRNT SDK用TypeScript型定義ファイル（.d.ts）</b>
     </p>
 </div>
